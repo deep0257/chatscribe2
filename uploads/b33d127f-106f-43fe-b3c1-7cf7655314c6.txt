@@ -1,0 +1,500 @@
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.663 FATCA CODE AND ITS RELEVANCE IN TAX REPORTING
+* What is a FATCA code?
+* Can you explain the FATCA code?
+* Tell me about FATCA.
+* What does FATCA mean?
+* What is the purpose of a FATCA code?
+* Give me details on FATCA compliance.
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.664 DEACTIVATE A ZELLE ACCOUNT
+* How can I deactivate my Zelle account?
+* What are the steps to turn off Zelle?
+* I want to remove my Zelle account — how do I do it?
+* How do I stop using Zelle with my bank?
+* How to disable or delete my Zelle account?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.665 DUPLICATE CHECK POSTING PROCEDURE
+* What is the process for a duplicate check?
+* How does the system handle duplicate checks?
+* What to do if there’s a duplicate check?
+* What happens when I deposit the same check twice?
+* How are duplicate checks flagged or rejected?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.666 DUPLICATE SCANNED CHECK AND IMPACT ON CLIENT DEPOSIT
+* Does scanning a check twice affect the deposit amount?
+* What happens to the client deposit if a check is scanned twice?
+* Is the deposit amount duplicated when a check is scanned twice?
+* Can scanning a check multiple times change the deposit?
+* Will the account show a different deposit if the check is scanned more than once?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.667 Estate Account Opening - MD
+* How do I open an estate account for a small estate in Maryland?
+* What are the steps to open an estate account in MD for a small estate?
+* Opening a small estate account in Maryland—what’s the process?
+* Can you walk me through opening a small estate account in MD?
+* How to set up an estate account for a small estate registered in MD?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.668 DEBIT CARD ACTIVATION TIMEFRAME
+* What is the time limit to activate a debit card?
+* How many days does a client have to activate their debit card?
+* Is there a deadline to activate a new debit card?
+* When does a debit card activation period expire?
+* How long is a debit card valid before activation is required?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.669 Voided Loan Disbursements
+* What is the process for handling a voided loan disbursement check?
+* How to manage a loan disbursement check that has been voided?
+* Steps to take after voiding a loan disbursement check?
+* What should I do if a loan disbursement check needs to be voided?
+* How do you process and reissue a voided loan disbursement check?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.670 LINKBANK INTEGRATION & AUTOMATED PAYMENTS
+* Can LINKBANK accounts be connected to Plaid?
+* Is it possible to integrate LINKBANK with services like Plaid?
+* Can we use Plaid to automate payments from a LINKBANK account?
+* Does LINKBANK support payment integrations such as Plaid?
+* How do we connect LINKBANK for automatic payments via external services?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.671 TRAN CODE FOR A LOAN ADVANCE
+* What transaction code is used for a loan advance?
+* Which tran code do we use for loan disbursement?
+* Can you tell me the tran code for processing a loan advance?
+* What’s the correct transaction code when advancing a loan?
+* Loan advance posting — what tran code applies?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.672 CHEXSYSTEMS REQUIREMENTS - MINOR CLIENTS
+* Is ChexSystems required for a 17-year-old applicant?
+* Do we run a ChexSystems report for minors?
+* Should I perform a ChexSystems check on a 17-year-old client?
+* Are clients under 18 subject to ChexSystems checks?
+* Do I need to check ChexSystems when onboarding a minor?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.673 RESTRICTED EMPLOYEE ACCOUNT RELEASE
+* Who is authorized to release a restricted employee account for a cashier’s check?
+* How do I get approval to release a restricted employee account?
+* Can I release a restricted account for a cashier’s check in-branch?
+* What’s the process to unlock a restricted employee account for check issuance?
+* Who has the authority to approve cashier’s check requests from restricted employee accounts?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.674 EMPLOYEE INSIDER CODE
+* What is the employee insider code?
+* How is the insider code used for employees?
+* What does the insider code indicate for staff?
+* Where do I find or assign an employee insider code?
+* Do all employees have an insider code in the system?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.675 DEPOSIT OPERATIONS CONTACT INFO
+* What is the phone number for deposit operations?
+* How can I contact deposit operations by phone?
+* Is there a direct number for deposit operations support?
+* Who do I call in deposit operations?
+* Where can I find deposit operations’ contact information?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.676 STOP PAYMENT VIA ONLINE BANKING
+* How can a customer place a stop payment using online banking?
+* What is the process to request a stop payment through digital banking?
+* Can a customer issue a stop payment online?
+* How do clients stop a payment through the mobile app or website?
+* Where do customers go to stop a check payment via online banking?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.677 SYNERGY FILE CORRECTION
+* How can I remove a file from Synergy if it’s misfiled?
+* What’s the process to correct a file stored in the wrong Synergy folder?
+* Can I delete or move a file in Synergy after misfiling it?
+* How do I fix a filing mistake in Synergy?
+* What steps should I follow to relocate a file placed in the wrong location in Synergy?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.678 STATEMENT ACCESS TIMEFRAME FOR CLIENTS
+* How many months of statements can clients view?
+* How far back can customers retrieve account statements?
+* What’s the statement history availability for clients?
+* How long are statements available to view online?
+* Can clients access older statements beyond one year?
+
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.679 IRA RMD CANCELLATION PROCEDURE
+* How do I cancel an RMD payment on an existing IRA?
+* What steps are required to stop a scheduled RMD in the system?
+* Can an RMD be canceled once it’s set up on an IRA account?
+* How to remove an RMD payment from the IRA disbursement schedule?
+* What is the process to cancel or change RMD instructions in our system?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.680 SYNERGY DOCUMENT NAMING – CONTACT ACKNOWLEDGMENT FORM
+* How should I name the Contact Acknowledgment form in Synergy?
+* What do I title the “We May Contact You” form when saving to Synergy?
+* How do I save the telephone, text, and email consent form in Synergy?
+* What is the correct Synergy document name for the contact acknowledgment form?
+* In Synergy, what should I label the form that allows client contact via phone, text, or email?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.681 JACK HENRY PASSWORD REQUIREMENTS
+* What are the updated password rules for Jack Henry?
+* Can you outline the new password requirements for Jack Henry login?
+* What’s changed in Jack Henry’s password policy?
+* What are Jack Henry’s current password complexity standards?
+* How long and complex must a Jack Henry password be now?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.682  MOBILE APP – LOCATE CHECKING ACCOUNT NUMBER
+* How do I find the checking account number in the mobile app?
+* Where is the account number located in the banking app?
+* Can clients view their checking account number on the mobile app?
+* What steps show the account and routing number on the app?
+* In the mobile banking app, how do users access their account details?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.683 ONLINE BANKING – TEST ENVIRONMENT
+* Is there a test or demo version of our online banking platform?
+* Do we use a sandbox site for online banking testing?
+* How can I access the test environment for online banking?
+* Is there a way to test transactions or features in a demo banking portal?
+* Where can employees test online banking features without using live data?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.684 PAYPAL USAGE FEES
+* Are customers charged a fee for PayPal transactions?
+* Does our bank apply fees for linking or using PayPal?
+* What are the fees associated with PayPal usage for clients?
+* Do clients incur charges when using PayPal with their account?
+* Is there a cost for making payments via PayPal through our services?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.685 MOBILE DEPOSIT – HOW TO
+* How can I deposit a check using the mobile app?
+* What steps do I follow to make a mobile deposit?
+* How do clients use mobile banking to deposit checks?
+* Where is the mobile deposit feature in the banking app?
+* Can you walk me through depositing a check with the app?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.686 DEBIT CARD DORMANCY POLICY
+* Will a debit card be deactivated if unused for a long time?
+* Is there an inactivity period after which a debit card goes dormant?
+* How long before an unused debit card becomes inactive?
+* Do we disable debit cards that haven’t been used in months?
+* What happens if a debit card remains unused for an extended time?
+
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.687 TELLER CASH RECYCLER (TCR) TRANSACTIONS
+* What is the process to sell cash to the TCR?
+* How do I complete a cash sell transaction on the TCR?
+* What steps are needed to sell funds to the Teller Cash Recycler?
+* How do tellers transfer excess cash to the TCR machine?
+* How do I perform a sell function using the TCR system?
+
+*(Nearly Human Reinforced Knowledge Procedures) INDIVIDUAL ACCOUNT – BENEFICIARY AS POA
+* Can a beneficiary on a checking account be appointed as POA using Linkbank form?
+* Is it allowed for a beneficiary to also serve as power of attorney?
+* Can I name a beneficiary as POA on an individual account with just Linkbank’s form?
+* Do beneficiaries need a separate POA form to have attorney-in-fact access?
+* Can the same person be both beneficiary and POA on a personal checking account?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.689 DIRECT DEPOSIT – BANK NUMBER
+* What routing number should clients use for direct deposit?
+* What is the bank number needed to set up a direct deposit with LINKBANK?
+* Which number goes on a direct deposit form for LINKBANK?
+* What is LINKBANK’s ABA number for direct deposit?
+* What information do I need for clients to receive direct deposits?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.690 BAZING ACTIVATION – RESEND CODE
+* How can we resend a BaZing activation code to a client?
+* What should I do if a client didn’t receive their BaZing code?
+* Can BaZing activation codes be reissued if the system glitches?
+* How do we handle failed BaZing activation due to a duplicate email?
+* Is there a way to push a new BaZing code if the original wasn’t delivered?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.691 ICS ACCOUNT – INTEREST RATE ALIGNMENT
+* Does the ICS account follow the same interest rate as the MMA?
+* Are ICS account interest rates the same as Money Market Accounts?
+* Is the interest for ICS accounts aligned with the linked MMA?
+* Do ICS accounts mirror the MMA rate structure?
+* What interest rate applies to an ICS account compared to an MMA?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.692 ESTATE ACCOUNTS – DOCUMENT REVIEW DEPARTMENT
+* Which department handles estate paperwork review?
+* Who is responsible for checking estate documents?
+* What team processes estate account documentation?
+* Where should estate documents be sent for approval?
+* Who reviews legal paperwork for estate accounts?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.693 IRA RMD – CUSTOMER NOTIFICATION TIMING
+* When are RMD notification letters sent to IRA clients?
+* What is the schedule for mailing RMD amounts to customers?
+* When does LinkBank notify IRA customers of their annual RMD?
+* Do IRA holders get annual letters for their RMD amounts?
+* When does the bank inform clients about their required IRA distributions?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.694 SOCIAL SECURITY CARD – DHS RESTRICTION USAGE
+* Can a restricted SSN card be used to add someone to a client’s account?
+* Is a social security card with DHS authorization valid for account updates?
+* Can we use an SSN card marked “valid for work only with DHS authorization” for account access?
+* Are DHS-restricted social security cards accepted for identity verification?
+* Can we add someone to a client’s account with a DHS-authorized SSN card?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.695 GENERAL PROCEDURE – STEP-BY-STEP INSTRUCTIONS
+* What are the instructions for section 333?
+* How do I follow the process outlined in procedure 333?
+* Step-by-step guide for executing task 333?
+* Can you explain how to complete item 333?
+* What is the process described under 1.333?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.696 CHECK REGISTERS – CLIENT AVAILABILITY
+* Are check registers available for clients?
+* Can clients request a check register from the bank?
+* Do we offer check registers to customers?
+* Is it possible for a client to get a check register?
+* How can clients obtain a check register?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.697 CHEX SYSTEMS – BUSINESS SIGNER GUIDELINES
+* How do I handle Chex Systems results for a business signer?
+* What is the protocol when a business signer is flagged in Chex Systems?
+* Steps to take after running Chex Systems for a business signer?
+* What if a business signer fails Chex Systems review?
+* Chex Systems outcome guidance for business account signers?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.698 BUSINESS ACCOUNTS – STATEMENT CYCLE VARIANCE
+* Are statement cycles the same for all business accounts?
+* Do business accounts share a uniform statement schedule?
+* Is the statement cycle standardized across all business accounts?
+* Can business account statement cycles differ?
+* How are statement cycles determined for business accounts?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.699 ACCOUNT BALANCE – CLIENT DISCREPANCIES
+* Why does the client believe their balance is wrong?
+* What causes balance discrepancies on a client’s account?
+* Why might a client see an incorrect balance?
+* What to check when a customer disputes their account balance?
+* How to explain differences between available and actual balance?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.700 ASSIGNED OFFICER – CORRECTION PROCEDURE
+* How do I fix a wrong assigned officer on an account?
+* What steps are needed to update the assigned officer details?
+* Assigned officer listed incorrectly – how to correct?
+* Procedure to change or correct assigned officer entry?
+* What’s the process for updating the officer assigned to a client?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.701 FEE SCHEDULE – LINKBANK LOCATOR
+* Where do I locate the LINKBANK fee schedule?
+* How can clients access the LINKBANK fee schedule?
+* Where is the fee schedule available for LINKBANK accounts?
+* How do I find LINKBANK’s official fee schedule online?
+* Can you show me where to get the LINKBANK fee guide?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.702 MUNICIPALITY ACCOUNT – SIGNER VERIFICATION
+* Do we run Verafin or Chex Systems when adding a signer to a municipality account?
+* What verification is needed for new signers on municipal accounts?
+* Is Verafin or Chex Systems required for a new signer on CD or checking accounts?
+* How to process a new signer for a municipality CD/checking account?
+* Do municipality accounts require Chex or Verafin for additional signers?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.703 VISITORS LOG – RETENTION POLICY
+* How long should we retain the visitors log?
+* What is the retention timeline for a visitor log?
+* Visitors log – how many years must it be kept?
+* What is the required retention period for guest logs?
+* How long do we keep logs of branch visitors?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.704 LOOMIS ACCOUNT – UNLOCK PROCEDURE
+* What is the process to unlock a Loomis account?
+* How do I reactivate a locked Loomis account?
+* Who do I contact to unlock my Loomis account?
+* Steps to unlock access to a Loomis account?
+* Can a Loomis account be unlocked after being disabled?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.705 ESCHEAT ACCOUNT – REOPENING PROCEDURE
+* How do I reopen an escheated account?
+* What is the procedure for recovering an escheated account?
+* Can a customer reclaim and reopen an escheated account?
+* What steps are needed to reopen a closed escheat account?
+* Reopening an account after escheatment – what’s required?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.706 E-STATEMENTS – ENROLLMENT PROCESS
+* How do I sign up a client for e-statements?
+* Steps to enroll a customer in electronic statements?
+* What is the process to enable e-statements for a customer?
+* How can a customer opt in for e-statements?
+* Where do I go to enroll a client in e-statement delivery?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.707 CARD DECLINE CODES – INVALID ARQC (0032)
+* What is ARQC error code 0032?
+* What does INVALID ARQC mean during a card transaction?
+* Why did the card decline with code 0032?
+* Meaning of ARQC 0032 on a failed transaction?
+* What causes INVALID ARQC error when swiping a card?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.708 POWER OF ATTORNEY – INTERNET BANKING ACCESS
+* Is a POA allowed to use online banking?
+* Can someone with power of attorney access internet banking?
+* Do we allow POA users to enroll in digital banking?
+* Can a POA be given online access to a client’s account?
+* How does a power of attorney manage internet banking for a customer?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.709 BANK OF DELMARVA – LIFE INSURANCE POLICIES
+* What kind of life insurance policies were offered by Bank of Delmarva?
+* Does Bank of Delmarva provide whole or term life insurance?
+* Are life insurance policies still available after the merger with LINKBANK?
+* How do I access Bank of Delmarva’s life or final expense insurance plans?
+* Where can I find details about life insurance under Bank of Delmarva or Delmarva Benefit Group
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.710 VALLEY VIEW ATM – OUT OF CASH ISSUE
+* How do I check if the Valley View ATM is out of cash?
+* What should I do if an ATM is not allowing withdrawals?
+* Can we verify ATM cash status before Garda replenishment?
+* Is there a process to report or escalate a non-functioning ATM?
+* What happens if a branch ATM runs out of cash before scheduled servicing?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.711 REP PAYEE ACCOUNTS – FEE POLICY
+* Are there fees for representative payee accounts?
+* Do rep payee accounts incur service charges?
+* What fees apply to rep payee account holders?
+* Is a rep payee account fee-free?
+* How are rep payee accounts charged?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.712 SOLUTION CENTER – INACTIVE SECURITY CAMERA PROCEDURE
+* What should I do if security cameras aren’t working in the solution center?
+* Procedure for when surveillance cameras go down in the solution center
+* Steps to follow if security feed is inactive in solution center
+* Who to contact if cameras in the solution center aren’t live?
+* What’s the protocol for offline security cameras at the branch?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.713 ATM SETTLEMENT – FINAL SETTLEMENT PROCEDURE
+* What happens if the final settlement for ATM is not completed?
+* Procedure when ATM settlement final step is missed
+* How to handle incomplete ATM final settlements
+* What to do if ATM settlement finalization is skipped
+* Steps to follow when final ATM settlement isn’t done
+
+ 
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.714 MAHT ENROLLMENT FORM
+* Where can I find the MAHT Enrollment Form?
+* How to access the MAHT Enrollment Form?
+* What is the process to complete the MAHT Enrollment Form?
+* Instructions for filling out the MAHT Enrollment Form
+* How do I submit the MAHT Enrollment Form?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.715 MOTORCYCLE LOANS
+* Are motorcycle loans available to clients?
+* Can clients apply for motorcycle loans?
+* What is the process to get a motorcycle loan?
+* Do we finance motorcycles?
+* How to apply for a motorcycle loan?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.716 BANK OF DELMARVA – ACH MERCHANT PAYMENTS
+* Can customers use The Bank of Delmarva's routing number for ACH merchant payments?
+* Is The Bank of Delmarva's routing number valid for ACH transactions to merchants?
+* What is the routing number for ACH payments from The Bank of Delmarva?
+* Can ACH payments be made to merchants using The Bank of Delmarva's routing number?
+* How to use The Bank of Delmarva's routing number for ACH merchant payments?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.717 OPENING CHECKING ACCOUNT FOR CANADIAN RESIDENTS
+* What documents are required to open a checking account for a Canadian resident?
+* How can a Canadian resident open a checking account?
+* Requirements for Canadian residents to open a checking account.
+* Can Canadian residents open checking accounts and what is needed?
+* Steps to open a checking account for a Canadian resident.
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.718 SOLUTION CENTER OPENING PROCEDURES
+* What are the procedures to open the Solution Center?
+* How do you perform Solution Center opening procedures?
+* Steps to follow for opening the Solution Center.
+* What is the process to open the Solution Center?
+* How to properly open the Solution Center according to procedures?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.719 CLEANING THE DIGITAL CHECK PRINTER
+* What is the procedure to clean the digital check printer?
+* How do you properly clean the digital check printer?
+* Steps to clean the digital check printer safely.
+* How to maintain and clean the digital check printer?
+* What are the recommended cleaning instructions for the digital check printer?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.720 DIFFERENCE BETWEEN C-CORPORATION AND S-CORPORATION
+* What distinguishes a C-corporation from an S-corporation?
+* How does a C-corporation differ from an S-corporation?
+* Differences between C-corporation and S-corporation explained.
+* What are the key differences between C and S corporations?
+* How are C-corporations and S-corporations different in terms of structure and taxation?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.721 LINKBANK – SECURITY & FRAUD REPORTING NUMBER
+* What number do I call to report a security issue with LINKBANK?
+* Where can I contact LINKBANK to report fraud or suspicious activity?
+* What is LINKBANK’s dedicated security phone line?
+* Which phone number is used for fraud reporting at LINKBANK?
+* How do I reach LINKBANK’s security team by phone?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.722 CHECKBOOK REGISTER – CLIENT REQUEST PROCESS
+* Do we give out registers to our clients?
+* How can a customer obtain a checkbook register?
+* Can checkbook registers be mailed to clients?
+* Where can a client request a check register in branch?
+* Is there a fee for checkbook registers at LINKBANK?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.723 MOBILE DEPOSIT – FUNDS AVAILABILITY TIMING
+* When are funds available after a mobile deposit?
+* How long does it take for a mobile check deposit to process?
+* What is the hold time on mobile deposits?
+* Do mobile deposits clear the same day?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.724 RECORD RETENTION – CLOSED ACCOUNT ITEMS (NOT IMAGED)
+* How long should non-imaged closed account items be kept?
+* What is the retention timeline for closed account items that are not scanned?
+* For closed accounts, how long do we store physical documents not imaged?
+* What is the document retention period for unscanned closed account files?
+* How many years should we keep paper items for closed accounts if not imaged?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.725 SAFE DEPOSIT BOX – POWER OF ATTORNEY ACCESS
+* Can a Power of Attorney access a client’s Safe Deposit Box?
+* Is POA authorization valid for SDB entry?
+* What documentation is needed for a POA to open a client’s SDB?
+* Does LinkBank allow POAs to access Safe Deposit Boxes?
+* Are POAs automatically granted SDB access?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.726 ADDRESS CHANGE – TREASURY MANAGEMENT CLIENT
+* What is the process for a Treasury Management client to change their address?
+* Steps for updating address for TM clients in the system?
+* How do we process address changes from Treasury Management customers?
+* Who handles address updates for TM customers and what forms are required?
+* What steps should be followed when a TM client requests an address change?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.727 CHEXSYSTEMS REPORT – INDEXING REQUIREMENT
+* Do we need to manually index each ChexSystems report for records?
+* Is manual indexing required for every ChexSystems report?
+* How are ChexSystems reports filed and stored for record-keeping?
+* What’s the process for indexing ChexSystems reports?
+* Are all ChexSystems reports supposed to be manually filed?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.728 LINKBANK NONPROFIT GRANT PROGRAM
+* Are grants available for non‑profit organizations through LinkBank?
+* Does LinkBank provide funding to non‑profits?
+* Can a charity or non‑profit apply for a grant at LinkBank?
+* How do non‑profits access grant opportunities with LinkBank?
+* What is the process for non‑profits to request grants from LinkBank?
+	
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.729 BUSINESS CLIENT CHECK ORDER OPTIONS
+* Can business clients order personal-sized checks from the vendor?
+* Are small-sized checks available for business accounts?
+* Do business clients have the option to order personal checks?
+* Is it possible for businesses to request personal size checks?
+* What check size options are available for business customers from our vendor?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.730 IRA CONVERSION PAPERWORK REQUIREMENTS
+* Is customer paperwork required to convert a Traditional IRA to a Roth IRA?
+* What documentation is needed for an IRA conversion from Traditional to Roth?
+* Do we require forms from clients to process a Traditional-to-Roth IRA transfer?
+* Is a signed request needed to convert a Traditional IRA to a Roth IRA?
+* What paperwork does a customer need to submit for a Roth IRA conversion?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.731 FUND VERIFICATION FOR EXTERNAL BANKS
+* Can we verify funds for checks issued from other banks?
+* Are we allowed to confirm account balances for non-LinkBank institutions?
+* Is it possible to validate funds availability from external banks?
+* Can we perform a funds verification request for a check from another bank?
+* Do we assist with verifying funds from outside financial institutions?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.732 STATEMENT FEE CHARGES FOR CLOSED ACCOUNTS
+* Can we apply a statement fee after an account is closed?
+* What is the process to charge a statement fee for a previously closed account?
+* Are statement fees applicable on closed accounts?
+* How do we handle billing for statements requested from closed accounts?
+* Is there a way to charge clients for historical statements on inactive or closed accounts?
+
+*(Nearly Human Reinforced Knowledge Procedures) 1.1.733 SURPRISE AUDIT TCR - DIVERT MONEY COUNTING
+* How is divert cash counted during a surprise TCR audit?
+* What’s the correct procedure for counting divert funds in a TCR audit?
+* Are there special steps to follow for divert money in a TCR during audits?
+* When auditing a TCR, how do I reconcile the divert money?
+* Is there a form or checklist for counting divert funds in TCR surprise audits?
+

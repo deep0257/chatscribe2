@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+jinja2
+python-multipart
+sqlalchemy
+asyncpg
+psycopg2-binary
+passlib[bcrypt]
+python-jose[cryptography]
+aiofiles
+python-dotenv
+pydantic
+pydantic[email]
+openai
+python-docx
+pdfplumber

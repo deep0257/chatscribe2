@@ -1,0 +1,97 @@
+{% extends "base.html" %}
+
+{% block title %}{{ document.original_filename }} - ChatScribe{% endblock %}
+
+{% block content %}
+<div class="container py-4">
+    <div class="row">
+        <div class="col-lg-12">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="/dashboard">Dashboard</a></li>
+                    <li class="breadcrumb-item active">{{ document.original_filename }}</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+
+    <div class="row">
+        <!-- Document Info -->
+        <div class="col-lg-8">
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h5 class="mb-0">
+                        <i class="fas fa-file-alt me-2"></i>{{ document.original_filename }}
+                    </h5>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <p><strong>File Type:</strong> {{ document.file_type.upper() }}</p>
+                            <p><strong>Size:</strong> {{ "%.1f"|format(document.file_size / 1024) }} KB</p>
+                        </div>
+                        <div class="col-md-6">
+                            <p><strong>Uploaded:</strong> {{ document.uploaded_at.strftime('%Y-%m-%d %H:%M') }}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Start New Chat -->
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="mb-0">
+                        <i class="fas fa-comments me-2"></i>Start New Chat
+                    </h5>
+                </div>
+                <div class="card-body">
+                    <form method="post" action="/document/{{ document.id }}/new-chat">
+                        <div class="mb-3">
+                            <label for="message" class="form-label">Ask a question about this document</label>
+                            <textarea class="form-control" id="message" name="message" rows="3" 
+                                    placeholder="What would you like to know about this document?" required></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary">
+                            <i class="fas fa-paper-plane me-2"></i>Start Chat
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <!-- Chat Sessions Sidebar -->
+        <div class="col-lg-4">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="mb-0">
+                        <i class="fas fa-history me-2"></i>Previous Chats
+                    </h5>
+                </div>
+                <div class="card-body">
+                    {% if chat_sessions %}
+                        {% for session in chat_sessions %}
+                        <div class="d-flex align-items-center mb-3 p-2 border rounded">
+                            <div class="flex-grow-1">
+                                <h6 class="mb-1">{{ session.title }}</h6>
+                                <small class="text-muted">
+                                    {{ session.updated_at.strftime('%Y-%m-%d %H:%M') }}
+                                </small>
+                            </div>
+                            <a href="/chat/{{ session.id }}" class="btn btn-sm btn-outline-primary">
+                                <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                        {% endfor %}
+                    {% else %}
+                        <div class="text-center py-3">
+                            <i class="fas fa-comments fa-2x text-muted mb-2"></i>
+                            <p class="text-muted mb-0">No chats yet</p>
+                            <small class="text-muted">Start your first conversation above!</small>
+                        </div>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
